@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X5 -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    style="fill-rule:evenodd;text-rendering:geometricPrecision;image-rendering:optimizeQuality;clip-rule:evenodd;shape-rendering:geometricPrecision"
+    xml:space="preserve"
+    viewBox="0 0 734 1062"
+  >
+ <defs
+    >
+  <style
+        type="text/css"
+      >
+    .fil2 {fill:black}
+    .fil1 {fill:red}
+    .fil0 {fill:white}
+  </style
+    >
+ </defs
+  >
+<symbol
+      id="_35441304"
+      viewBox="53356 23841 21000 21000"
+    >
+ <path
+        id="path18346"
+        d="m63856 24345c5506 0 9996 4490 9996 9996s-4490 9996-9996 9996-9996-4490-9996-9996 4490-9996 9996-9996z"
+        class="fil0"
+    />
+ <path
+        id="path18348"
+        d="m63856 23841c5783 0 10500 4717 10500 10500s-4717 10500-10500 10500-10500-4717-10500-10500 4717-10500 10500-10500zm-249 10627c333 0 640 111 887 298-225-186-501-316-808-367-930-153-1813 481-1966 1412-5 29-9 58-12 88-887-343-1447-1276-1288-2249l554-3377 3821 412c77 8 150-79 163-194s-41-216-118-225l-3798-410 42-254 3823 413c77 8 150-79 163-194s-41-216-118-225l-3800-410 60-364 3807 411c77 8 150-79 163-194s-41-216-118-225l-3783-408 57-346 3838 414c77 8 150-79 163-194 12-115-41-216-118-225l-3815-412 63-385c464-2826 6315-2060 5820 955l-1049 6392c-111 677-546 1224-1120 1508 3-215-35-424-107-618 46 142 70 293 70 450 0 687-473 1267-1110 1430v5227c0 321-213 583-473 583h-656c-260 0-473-262-473-583v-5851c-152-232-241-509-241-806 0-813 663-1477 1477-1477z"
+        class="fil1"
+    />
+</symbol
+  >
+<symbol
+      id="symbol18404"
+      viewBox="-40165 80413 21000 21000"
+    >
+ <path
+        id="path18383"
+        d="m-29656 80917c5503 0 9994 4491 9994 9996s-4491 9996-9994 9996c-5522 0-10012-4491-10012-9996s4491-9996 10012-9996z"
+        class="fil0"
+    />
+ <path
+        id="path18385"
+        d="m-29656 80413c5779 0 10491 4717 10491 10500s-4712 10500-10491 10500c-5798 0-10509-4717-10509-10500s4712-10500 10509-10500zm-258 10627c331 0 644 110 883 296-221-186-497-315-810-366-920-153-1804 482-1969 1412v88c-883-344-1454-1275-1288-2249l552-3377 3828 412c74 7 147-79 147-195 18-114-37-215-110-225l-3791-409 37-254 3828 412c74 7 147-79 166-195 0-114-55-215-129-225l-3791-409 55-364 3810 410c74 9 147-79 166-193 0-116-55-217-129-225l-3773-409 55-346 3828 414c74 7 147-79 166-195 18-116-37-217-110-225l-3828-412 74-385c460-2827 6313-2060 5816 955l-1049 6392c-110 677-552 1224-1123 1507 0-215-37-423-110-617 55 142 74 293 74 449 0 687-460 1266-1104 1430v5227c0 320-221 583-479 583h-644c-276 0-479-263-479-583v-5851c-147-232-239-508-239-806 0-814 663-1476 1472-1476z"
+        class="fil1"
+    />
+</symbol
+  >
+ <g
+      id="Layer_x0020_1"
+    >
+  <path
+        class="fil2"
+        d="m551 23c157 63 202 226 176 424-80-57-169-98-265-127l89-297zm165 490c-7 38-17 76-29 115-86 286-247 490-476 421s-250-328-164-614c11-37 24-73 37-107 126 1 243 16 350 46 104 30 199 75 282 139zm-606-244c88-183 217-297 384-263l-90 298c-92-22-190-33-294-36z"
+    />
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

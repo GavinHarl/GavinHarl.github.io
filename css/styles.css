@@ -1,0 +1,140 @@
+
+/* General */
+h1 {
+
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes slide {
+    100%{
+        transform: translateX(42%);
+    }
+}
+p {
+    font-size: 1.1em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 15px;
+    font-family: 'Roboto'
+}
+body{
+    margin: 0%;
+}
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *::after {
+    box-sizing: inherit;
+}
+
+.col-one {
+    width: 30%;
+}
+.col-two {
+    width: 100%;
+}
+
+.col {
+    display: inline-block;
+}
+/* Main Picture */
+.myPic {
+    width: 500px;
+    background-color: lightgray;
+    float: left;
+}
+.mouse {
+    width: 50px;
+}
+
+/* Project Pics */
+.projectPics {
+    width: 1000px;
+    background-color: lightgray;
+}
+
+/* Links */
+a {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(51, 45, 45);
+    text-decoration: none;
+}
+
+/* Header / Footer */
+header h1:before {
+    content: "\2606";
+    color: white;
+    
+}
+
+header{
+    background-color: #43444a;
+    color: black;
+}
+header h1 {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+nav{
+    text-align: left;
+    background-color: gray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+footer {
+    background: linear-gradient(rgba(67,78,74,0.8), rgba(67,78,74,0.5));
+    text-align: center;
+}
+footer a {
+    font-size: 30px;
+}
+
+/* Education */
+.education {
+    background-color: lightcyan;
+    text-align: center;
+}
+
+/* Skills */
+.skills {
+    background-color: lightcyan;
+    clear: both;
+    
+}
+
+
+
+@media (max-width: 630px){
+    .skills{
+        text-align: center;
+    }
+}
+@media (min-width: 630px) and (max-width: 650px){
+    .myPic{
+        float:none;
+    }
+}
+@media (min-width: 651px) and (max-width: 10000px){
+    li{
+        font-size: 1.1em;
+    }
+}
